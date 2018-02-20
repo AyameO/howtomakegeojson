@@ -1,2 +1,2 @@
 # howtomakegeojson
-(mine)[https://github.com/furuhashilab/howtomakegeojson/issues/6]
+[mine](https://github.com/furuhashilab/howtomakegeojson/issues/6)
